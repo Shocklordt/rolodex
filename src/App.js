@@ -35,7 +35,7 @@ class App extends Component {
       })
     }
     
-    render(){
+    render(){  
       
 
       const {monsters, searchField} = this.state
